@@ -1,0 +1,4 @@
+
+For more information on rackspace-cloud, see http://github.com/edraper/rackspace-cloud
+
+
