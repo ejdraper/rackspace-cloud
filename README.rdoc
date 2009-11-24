@@ -1,6 +1,6 @@
 = rackspace-cloud
 
-* http://github.com/edraper/rackspace-cloud
+* http://github.com/ejdraper/rackspace-cloud
 
 == DESCRIPTION:
 
