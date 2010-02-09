@@ -42,6 +42,8 @@ rest-client (1.0.3+)
 
 activesupport (2.3.4+)
 
+json (1.2.0)
+
 == INSTALL:
 
 gem install rackspace-cloud

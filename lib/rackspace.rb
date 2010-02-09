@@ -5,6 +5,7 @@ gem "activesupport"
 require "active_support"
 gem "rest-client"
 require "rest_client"
+gem "json"
 
 module Rackspace
   VERSION = '0.5'
