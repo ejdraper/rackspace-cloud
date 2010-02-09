@@ -8,7 +8,7 @@ require "rest_client"
 gem "json"
 
 module Rackspace
-  VERSION = '0.5'
+  VERSION = '0.6'
   
   module CloudServers
   end
